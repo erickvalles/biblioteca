@@ -29,7 +29,8 @@
             <thead>
             <tr>
                 <th scope="col">#</th>
-                <th scope="col">Nombre</th>
+                <th scope="col">Editorial</th>
+                <th scope="col">Libro</th>
                 <th scope="col">Autor</th>
                 <th scope="col">Acciones</th>
             </tr>
@@ -37,6 +38,7 @@
             <tbody>
             <tr>
                 <th scope="row">1</th>
+                <td>Mark</td>
                 <td>Mark</td>
                 <td>Otto</td>
                 <td><a href="#" class="btn btn-primary">Editar</a><a href="#" class="btn btn-danger">Eliminar</a></td>
